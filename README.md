@@ -1,5 +1,5 @@
 # go-mixpanel
-Go implementation of the Mixpanel API
+An implementation of the Mixpanel API written in Go.
 
 ## Usage
 
